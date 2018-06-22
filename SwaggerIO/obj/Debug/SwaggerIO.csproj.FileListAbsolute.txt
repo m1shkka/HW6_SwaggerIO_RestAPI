@@ -1,0 +1,13 @@
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\SwaggerIO.exe.config
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\SwaggerIO.exe
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\SwaggerIO.pdb
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\RestSharp.dll
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\obj\Debug\SwaggerIO.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\obj\Debug\SwaggerIO.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\obj\Debug\SwaggerIO.csproj.CopyComplete
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\obj\Debug\SwaggerIO.exe
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\obj\Debug\SwaggerIO.pdb
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\Json.dll
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\Json.pdb
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\misha\source\repos\SwaggerIO\SwaggerIO\bin\Debug\Newtonsoft.Json.xml
